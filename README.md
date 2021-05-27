@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on ...
-hackthebox
+🔭 I’m currently working on `hackthebox`.
 <!--
 **marksowell/marksowell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
