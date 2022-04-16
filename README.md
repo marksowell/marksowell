@@ -2,10 +2,9 @@
 
 <p align="center">
 <a href="https://github.com/marksowell"><img src="https://img.shields.io/github/followers/marksowell?style=social">
-<a href="https://github.com/projectdiscovery/nuclei/graphs/contributors"><img src="https://img.shields.io/github/contributors-anon/projectdiscovery/nuclei">
-<a href="https://github.com/projectdiscovery/nuclei/releases/"><img src="https://img.shields.io/github/release/projectdiscovery/nuclei">
-<a href="https://github.com/projectdiscovery/nuclei/issues"><img src="https://img.shields.io/github/issues-raw/projectdiscovery/nuclei">
-<a href="https://github.com/projectdiscovery/nuclei/discussions"><img src="https://img.shields.io/github/discussions/projectdiscovery/nuclei">
+<a href="https://keybase.io/marksowell"><img src="https://img.shields.io/keybase/pgp/marksowell">
+<a href="https://stats.uptimerobot.com/60WvLSoxxz/786870760"><img src="https://img.shields.io/uptimerobot/ratio/m786870760-eb1a41a20f0612eccc9cfd54">
+<a href="https://marksowell.com"><img src="https://img.shields.io/website?url=https%3A%2F%2Fmarksowell.com">
 <a href="https://discord.gg/marksowell"><img src="https://img.shields.io/discord/555552394184753153.svg?logo=discord"></a>
 <a href="https://twitter.com/marksowell"><img src="https://img.shields.io/twitter/follow/marksowell.svg?logo=twitter"></a>
 </p>
