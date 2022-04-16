@@ -6,7 +6,7 @@
 <a href="https://github.com/projectdiscovery/nuclei/releases/"><img src="https://img.shields.io/github/release/projectdiscovery/nuclei">
 <a href="https://github.com/projectdiscovery/nuclei/issues"><img src="https://img.shields.io/github/issues-raw/projectdiscovery/nuclei">
 <a href="https://github.com/projectdiscovery/nuclei/discussions"><img src="https://img.shields.io/github/discussions/projectdiscovery/nuclei">
-<a href="https://discord.gg/marksowell"><img src="https://img.shields.io/discord/555552394184753155.svg?logo=discord"></a>
+<a href="https://discord.gg/marksowell"><img src="https://img.shields.io/discord/555552394184753153.svg?logo=discord"></a>
 <a href="https://twitter.com/marksowell"><img src="https://img.shields.io/twitter/follow/marksowell.svg?logo=twitter"></a>
 </p>
   
