@@ -10,6 +10,7 @@
 </p>
 
 ### Hi there! I'm Mark Sowell <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2%">
+  
 
 ### 🔗 Connect with me
 
@@ -20,12 +21,14 @@
 [<img align="left" alt="Mark Sowell | YouTube" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" />][youtube]
 [<img align="left" alt="Mark Sowell | Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg"/>][telegram]
   
+  
 ### <img width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/43/Hacker_behind_PC.svg" /> Research platforms
   
 [<img align="left" alt="Mark Sowell | TryHackMe" width="22px" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/4.5.0/tryhackme.svg" />][tryhackme]
 [<img align="left" alt="Mark Sowell | Hack The Box" width="22px" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/4.5.0/hackthebox.svg" />][hackthebox]
 [<img align="left" alt="Mark Sowell | HackerOne" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerone.svg" />][hackerone]
 [<img align="left" alt="Mark Sowell | Bugcrowd" width="22px" src="https://raw.githubusercontent.com/noobpk/noobpk.github.io/master/assets/img/bugcrowd.svg" />][bugcrowd]
+  
   
 ### Certifications  
   
