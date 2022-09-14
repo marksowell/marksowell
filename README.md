@@ -35,7 +35,7 @@
 
 [<img align="left" alt="Mark Sowell | Credly" height="30px" src="credly.svg" />][credly]
 
-<br />
+<br /><br />
 
 [<img align="left" alt="Mark Sowell | EC-Council" height="20px" src="ec-council.svg" />][eccouncil]
 
