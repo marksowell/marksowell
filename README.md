@@ -34,7 +34,7 @@
 ### 🏆  Certifications  
   
 Credly: https://www.credly.com/users/marksowell/badges?sort=-state_updated_at  
-△: https://aspen.eccouncil.org/VerifyBadge?type=certification&a=hrh5u5BN7tpBPrNa4iembfeuOXjVqqECsmvVrUh2oeI=  
+EC-Council: https://aspen.eccouncil.org/VerifyBadge?type=certification&a=hrh5u5BN7tpBPrNa4iembfeuOXjVqqECsmvVrUh2oeI=  
 
 ![](https://komarev.com/ghpvc/?username=marksowell&color=57c62e&style=for-the-badge)
 
