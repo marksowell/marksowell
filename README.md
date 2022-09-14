@@ -11,7 +11,7 @@
 
 ### Hi there! I'm Mark Sowell <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2%">
 
-### 🔗 Connect with me
+### 🔗  Connect with me
 
 [<img align="left" alt="marksowell.com" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Breezeicons-apps-32-preferences-system-network.svg" />][website]
 [<img align="left" alt="Mark Sowell | LinkedIn" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
@@ -22,7 +22,7 @@
 
 <br />
 
-### 💻 Research platforms
+### 💻  Research platforms
   
 [<img align="left" alt="Mark Sowell | TryHackMe" width="22px" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/4.5.0/tryhackme.svg" />][tryhackme]
 [<img align="left" alt="Mark Sowell | Hack The Box" width="22px" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/4.5.0/hackthebox.svg" />][hackthebox]
@@ -31,7 +31,7 @@
   
 <br />
   
-### 🏆 Certifications  
+### 🏆  Certifications  
   
 Credly: https://www.credly.com/users/marksowell/badges?sort=-state_updated_at  
 EC-Council: https://aspen.eccouncil.org/VerifyBadge?type=certification&a=hrh5u5BN7tpBPrNa4iembfeuOXjVqqECsmvVrUh2oeI=  
