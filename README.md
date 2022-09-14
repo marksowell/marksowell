@@ -22,7 +22,7 @@
 
 <br />
   
-### <img width="25px" vertical-align="bottom" src="https://upload.wikimedia.org/wikipedia/commons/4/43/Hacker_behind_PC.svg" /> Research platforms
+### <img width="25px" style="position:absolute;bottom:0;" src="https://upload.wikimedia.org/wikipedia/commons/4/43/Hacker_behind_PC.svg" /> Research platforms
   
 [<img align="left" alt="Mark Sowell | TryHackMe" width="22px" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/4.5.0/tryhackme.svg" />][tryhackme]
 [<img align="left" alt="Mark Sowell | Hack The Box" width="22px" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/4.5.0/hackthebox.svg" />][hackthebox]
