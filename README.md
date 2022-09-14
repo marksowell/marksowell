@@ -23,24 +23,24 @@
 <br />
 
 ### Research platforms
-  
+
 [<img align="left" alt="Mark Sowell | TryHackMe" width="22px" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/4.5.0/tryhackme.svg" />][tryhackme]
 [<img align="left" alt="Mark Sowell | Hack The Box" width="22px" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/4.5.0/hackthebox.svg" />][hackthebox]
 [<img align="left" alt="Mark Sowell | HackerOne" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerone.svg" />][hackerone]
 [<img align="left" alt="Mark Sowell | Bugcrowd" width="22px" src="https://raw.githubusercontent.com/noobpk/noobpk.github.io/master/assets/img/bugcrowd.svg" />][bugcrowd]
-  
+
 <br />
-  
-### Certifications  
-  
-[<img align="left" alt="Mark Sowell | Credly" height="40px" src="credly.svg" />][credly]  
-  
-<br /><br />  
-  
-[<img align="left" alt="Mark Sowell | EC-Council" height="40px" src="ec-council.svg" />][eccouncil]  
-  
-<br /><br />  
-  
+
+### Certifications
+
+[<img align="left" alt="Mark Sowell | Credly" height="40px" src="credly.svg" />][credly]
+
+<br /><br />
+
+[<img align="left" alt="Mark Sowell | EC-Council" height="30px" src="ec-council.svg" />][eccouncil]
+
+<br /><br />
+
 ![](https://komarev.com/ghpvc/?username=marksowell&color=57c62e&style=for-the-badge)
 
 [website]: https://marksowell.com
