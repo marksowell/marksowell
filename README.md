@@ -24,10 +24,10 @@
 
 ### Research platforms
 
-[<img align="left" alt="Mark Sowell | TryHackMe" width="22px" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/4.5.0/tryhackme.svg" />][tryhackme]
-[<img align="left" alt="Mark Sowell | Hack The Box" width="22px" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/4.5.0/hackthebox.svg" />][hackthebox]
-[<img align="left" alt="Mark Sowell | HackerOne" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerone.svg" />][hackerone]
-[<img align="left" alt="Mark Sowell | Bugcrowd" width="22px" src="https://raw.githubusercontent.com/noobpk/noobpk.github.io/master/assets/img/bugcrowd.svg" />][bugcrowd]
+[<img align="left" alt="Mark Sowell | TryHackMe" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.11.0/icons/tryhackme.svg" />][tryhackme]
+[<img align="left" alt="Mark Sowell | Hack The Box" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.11.0/icons/hackthebox.svg" />][hackthebox]
+[<img align="left" alt="Mark Sowell | HackerOne" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.11.0/icons/hackerone.svg" />][hackerone]
+[<img align="left" alt="Mark Sowell | Bugcrowd" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.11.0/icons/bugcrowd.svg" />][bugcrowd]
 
 <br />
 
