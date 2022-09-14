@@ -36,7 +36,7 @@
 [<img align="left" alt="Mark Sowell | Credly" height="40px" src="credly.svg" />][credly]
 [<img align="left" alt="Mark Sowell | EC-Council" height="40px" src="ec-council.svg" />][eccouncil]
 
-<br />
+<br /><br />
 
 ![](https://komarev.com/ghpvc/?username=marksowell&color=57c62e&style=for-the-badge)
 
