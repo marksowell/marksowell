@@ -9,7 +9,7 @@
 <a href="https://twitter.com/marksowell"><img src="https://img.shields.io/twitter/follow/marksowell.svg?logo=twitter"></a>
 </p>
 
-### Hi there! I'm Mark Sowell <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2%">
+### Hi! I'm Mark <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2%">
 
 ### 🔗  Connect with me
 
