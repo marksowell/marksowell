@@ -33,11 +33,14 @@
   
 ### Certifications  
   
-[<img align="left" alt="Mark Sowell | Credly" height="40px" src="credly.svg" />][credly]<br />
-[<img align="left" alt="Mark Sowell | EC-Council" height="40px" src="ec-council.svg" />][eccouncil]
-
-<br />
-
+[<img align="left" alt="Mark Sowell | Credly" height="40px" src="credly.svg" />][credly]  
+  
+<br /><br />  
+  
+[<img align="left" alt="Mark Sowell | EC-Council" height="40px" src="ec-council.svg" />][eccouncil]  
+  
+<br /><br />  
+  
 ![](https://komarev.com/ghpvc/?username=marksowell&color=57c62e&style=for-the-badge)
 
 [website]: https://marksowell.com
