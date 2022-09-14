@@ -34,7 +34,7 @@
 ### Certifications  
   
 [<img align="left" alt="Mark Sowell | Credly" height="40px" src="credly.svg" />][credly]
-[<img align="left" alt="Mark Sowell | EC-Council" height="50px" src="ec-council.svg" />][eccouncil]
+[<img align="left" alt="Mark Sowell | EC-Council" height="40px" src="ec-council.svg" />][eccouncil]
 
 <br />
 
