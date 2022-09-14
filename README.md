@@ -33,7 +33,7 @@
   
 ### Certifications  
   
-Credly: https://www.credly.com/users/marksowell/badges?sort=-state_updated_at  
+[<img align="left" alt="Mark Sowell | Credly" width="22px" src="credly.svg" />][credly]
 EC-Council: https://aspen.eccouncil.org/VerifyBadge?type=certification&a=hrh5u5BN7tpBPrNa4iembfeuOXjVqqECsmvVrUh2oeI=  
 
 ![](https://komarev.com/ghpvc/?username=marksowell&color=57c62e&style=for-the-badge)
@@ -48,3 +48,4 @@ EC-Council: https://aspen.eccouncil.org/VerifyBadge?type=certification&a=hrh5u5B
 [tryhackme]: https://tryhackme.com/p/marksowell  
 [twitter]: https://twitter.com/marksowell/  
 [telegram]: https://t.me/marksowell
+[credly]: https://www.credly.com/users/marksowell/badges?sort=-state_updated_at
