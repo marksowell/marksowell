@@ -19,7 +19,7 @@
 [<img align="left" alt="Mark Sowell | GitHub" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" />][github]
 [<img align="left" alt="Mark Sowell | YouTube" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" />][youtube]
 [<img align="left" alt="Mark Sowell | Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg"/>][telegram]
-
+  
 ### <img width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/43/Hacker_behind_PC.svg" /> Research platforms
   
 [<img align="left" alt="Mark Sowell | TryHackMe" width="22px" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/4.5.0/tryhackme.svg" />][tryhackme]
