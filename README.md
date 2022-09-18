@@ -45,7 +45,7 @@
 
 [website]: https://marksowell.com
 [github]: https://github.com/marksowell  
-[youtube]: https://www.youtube.com/channel/UCuHMYk-np8zBOkGtlkN5PrA
+[youtube]: https://www.youtube.com/c/MarkSowell-Denver/playlists
 [linkedin]: https://www.linkedin.com/in/marksowell/
 [hackthebox]: https://app.hackthebox.com/profile/319820
 [bugcrowd]: https://bugcrowd.com/marksowell
