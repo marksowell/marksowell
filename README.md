@@ -39,6 +39,12 @@
 
 [<img align="left" alt="Mark Sowell | EC-Council" height="20px" src="ec-council.svg" />][eccouncil]
 
+<br />
+
+### Bookshelf
+
+[<img align="left" alt="Mark Sowell | Goodreads" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.11.0/icons/goodreads.svg" />][goodreads]
+
 <br /><br />
 
 ![](https://komarev.com/ghpvc/?username=marksowell&color=57c62e&style=for-the-badge)
@@ -55,3 +61,4 @@
 [telegram]: https://t.me/marksowell
 [credly]: https://www.credly.com/users/marksowell/badges?sort=-state_updated_at
 [eccouncil]: https://aspen.eccouncil.org/VerifyBadge?type=certification&a=hrh5u5BN7tpBPrNa4iembfeuOXjVqqECsmvVrUh2oeI=  
+[goodreads]: https://www.goodreads.com/marksowell
