@@ -11,6 +11,16 @@
 
 ### Hi! I'm Mark <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2%">
 
+I am a penetration tester with a focus on application secruity in the following areas:
+
+- Web applications  
+- Mobile applications  
+- Desktop applications  
+- APIs and Web Services  
+- Cloud applications  
+- Microservices and containerized applications  
+- Serverless applications  
+
 ### Connect with me
 
 [<img align="left" alt="marksowell.com" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Breezeicons-apps-32-preferences-system-network.svg" />][website]
