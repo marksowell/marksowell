@@ -43,7 +43,7 @@
 
 ### Bookshelf
 
-[<img align="left" alt="Mark Sowell | Goodreads" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.11.0/icons/goodreads.svg" />][goodreads]
+[<img align="left" alt="Mark Sowell | Goodreads" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.11.0/icons/goodreads.svg" />][goodreads][<img align="left" alt="Bookshelf | Goodreads" width="115px" src="bookshelf.png" />][goodreads]
 
 <br /><br />
 
