@@ -7,7 +7,7 @@
 <a href="https://marksowell.com"><img src="https://img.shields.io/website?url=https%3A%2F%2Fmarksowell.com">
 <a href="https://discord.gg/mqPDCRWXMa"><img src="https://img.shields.io/discord/555552394184753153.svg?logo=discord"></a>
 <a href="https://twitter.com/marksowell"><img src="https://img.shields.io/twitter/follow/marksowell.svg?logo=twitter"></a>
-<a href="https://www.linkedin.com/in/marksowell"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/marksowell"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin"></a>
 </p>
 
 ### Hi! I'm Mark <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2%">
