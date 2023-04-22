@@ -17,7 +17,7 @@ I am a penetration tester with a focus on application secruity in the following 
 - Web applications  
 - Mobile applications  
 - Desktop applications  
-- APIs and Web Services  
+- APIs, SDKs, and Web Services  
 - Cloud applications  
 - Microservices and containerized applications  
 - Serverless applications  
