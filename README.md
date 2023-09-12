@@ -22,6 +22,14 @@ I am a penetration tester with a focus on application secruity in the following 
 - Microservices and containerized applications  
 - Serverless applications  
 
+Over the years I have developed extensive experience in orchestrating comprehensive security assessments for a diverse range of applications and cultivated expertise in:
+
+- Strategic Leadership: Defining methodologies, innovating toolsets, and setting best practices that steer effective and efficient penetration testing.
+- Mentorship: Empowering the next generation of security experts through training, guidance, and thought leadership.
+- Collaboration: Bridging gaps between security teams, fostering a collaborative environment to collectively drive application resilience.
+
+I am passionate about strengthening the security posture of applications, constantly evolving my techniques to stay ahead of emerging threats, and ensuring the highest standards of application security.
+
 ### Connect with me
 
 [<img align="left" alt="marksowell.com" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Breezeicons-apps-32-preferences-system-network.svg" />][website]
