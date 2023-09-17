@@ -10,7 +10,7 @@
 <a href="https://www.linkedin.com/in/marksowell"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin"></a>
 </p>
 
-### Hi! I'm Mark <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2%">
+### Hi! I'm Mark <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="22px" width="22px">
 
 I am a penetration tester with a focus on application secruity in the following areas:
 
@@ -32,21 +32,22 @@ I am passionate about strengthening the security posture of applications, consta
 
 ### Connect with me
 
-[<img align="left" alt="marksowell.com" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Breezeicons-apps-32-preferences-system-network.svg" />][website]
-[<img align="left" alt="Mark Sowell | LinkedIn" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
-[<img align="left" alt="Mark Sowell | Twitter" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />][twitter]
-[<img align="left" alt="Mark Sowell | GitHub" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" />][github]
-[<img align="left" alt="Mark Sowell | YouTube" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" />][youtube]
-[<img align="left" alt="Mark Sowell | Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg"/>][telegram]
+[<img align="left" alt="marksowell.com" width="22px" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Breezeicons-apps-32-preferences-system-network.svg" />][website]
+[<img align="left" alt="Mark Sowell | LinkedIn" width="22px" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
+[<img align="left" alt="Mark Sowell | Twitter" width="22px" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />][twitter]
+[<img align="left" alt="Mark Sowell | GitHub" width="22px" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" />][github]
+[<img align="left" alt="Mark Sowell | YouTube" width="22px" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" />][youtube]
+[<img align="left" alt="Mark Sowell | Telegram" width="22px" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg"/>][telegram]
+[<img align="left" alt="Mark Sowell | Medium" height="22px" width="22px" src="https://raw.githubusercontent.com/Medium/medium-logos/cd9acd1fff7e3c902b559de6c808c4a491f2d160/03_Symbol/01_Black/SVG/Medium_Symbol_NoPadding.svg"/>][medium]
 
 <br />
 
 ### Research platforms
 
-[<img align="left" alt="Mark Sowell | TryHackMe" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.11.0/icons/tryhackme.svg" />][tryhackme]
-[<img align="left" alt="Mark Sowell | Hack The Box" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.11.0/icons/hackthebox.svg" />][hackthebox]
-[<img align="left" alt="Mark Sowell | HackerOne" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.11.0/icons/hackerone.svg" />][hackerone]
-[<img align="left" alt="Mark Sowell | Bugcrowd" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.11.0/icons/bugcrowd.svg" />][bugcrowd]
+[<img align="left" alt="Mark Sowell | TryHackMe" width="22px" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.11.0/icons/tryhackme.svg" />][tryhackme]
+[<img align="left" alt="Mark Sowell | Hack The Box" width="22px" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.11.0/icons/hackthebox.svg" />][hackthebox]
+[<img align="left" alt="Mark Sowell | HackerOne" width="22px" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.11.0/icons/hackerone.svg" />][hackerone]
+[<img align="left" alt="Mark Sowell | Bugcrowd" width="22px" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.11.0/icons/bugcrowd.svg" />][bugcrowd]
 
 <br />
 
@@ -81,3 +82,4 @@ I am passionate about strengthening the security posture of applications, consta
 [credly]: https://www.credly.com/users/marksowell/badges?sort=-state_updated_at
 [eccouncil]: https://aspen.eccouncil.org/VerifyBadge?type=certification&a=hrh5u5BN7tpBPrNa4iembfeuOXjVqqECsmvVrUh2oeI=  
 [goodreads]: https://www.goodreads.com/marksowell
+[medium]: https://medium.com/@mark-sowell
