@@ -10,7 +10,7 @@
 <a href="https://www.linkedin.com/in/marksowell"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin"></a>
 </p>
 
-### Hi! I'm Mark <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="22px" width="22px">
+**Hi! I'm Mark <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="18px" width="18px">**
 
 I am a penetration tester with a focus on application secruity in the following areas:
 
