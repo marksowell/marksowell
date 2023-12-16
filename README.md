@@ -1,12 +1,12 @@
 [ ![Mark Sowell](Current4.png)](https://marksowell.com)
 
 <p align="center">
-<a href="https://github.com/marksowell"><img src="https://img.shields.io/github/followers/marksowell?style=social">
-<a href="https://keybase.io/marksowell"><img src="https://img.shields.io/keybase/pgp/marksowell">
-<a href="https://stats.uptimerobot.com/60WvLSoxxz/786870760"><img src="https://img.shields.io/uptimerobot/ratio/m786870760-eb1a41a20f0612eccc9cfd54">
-<a href="https://marksowell.com"><img src="https://img.shields.io/website?url=https%3A%2F%2Fmarksowell.com">
+<a href="https://github.com/marksowell"><img src="https://img.shields.io/github/followers/marksowell?style=social"></a>
+<a href="https://keybase.io/marksowell"><img src="https://img.shields.io/keybase/pgp/marksowell"></a>
+<a href="https://stats.uptimerobot.com/60WvLSoxxz/786870760"><img src="https://img.shields.io/uptimerobot/ratio/m786870760-eb1a41a20f0612eccc9cfd54"></a>
+<a href="https://marksowell.com"><img src="https://img.shields.io/website?url=https%3A%2F%2Fmarksowell.com"></a>
 <a href="https://discord.gg/mqPDCRWXMa"><img src="https://img.shields.io/discord/555552394184753153.svg?logo=discord"></a>
-<a href="https://twitter.com/marksowell"><img src="https://img.shields.io/twitter/follow/marksowell.svg?logo=twitter"></a>
+<a href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fpublish.twitter.com%2F%3FbuttonType%3DFollowButton%26query%3Dhttps%253A%252F%252Ftwitter.com%252Fmarksowell%26widget%3DButton&ref_src=twsrc%5Etfw&region=follow_link&screen_name=marksowell&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/marksowell?label=Follow%20%40marksowell&style=social"></a>
 <a href="https://www.linkedin.com/in/marksowell"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin"></a>
 </p>
 
