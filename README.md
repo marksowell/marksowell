@@ -34,8 +34,8 @@ I am passionate about strengthening the security posture of applications, consta
 
 [<img align="left" alt="marksowell.com" width="22px" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Breezeicons-apps-32-preferences-system-network.svg" />][website]
 [<img align="left" alt="Mark Sowell | LinkedIn" width="22px" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
-[<img align="left" alt="Mark Sowell | Twitter" width="22px" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />][twitter]
-[<img align="left" alt="Mark Sowell | GitHub" width="22px" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" />][github]
+[<img align="left" alt="Mark Sowell | Twitter" width="22px" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" />][twitter]
+[<img align="left" alt="Mark Sowell | GitHub" width="22px" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/6492e09294fe505ea50ed55abb73e2fb8da722df/icons/github.svg" />][github]
 [<img align="left" alt="Mark Sowell | YouTube" width="22px" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" />][youtube]
 [<img align="left" alt="Mark Sowell | Telegram" width="22px" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg"/>][telegram]
 [<img align="left" alt="Mark Sowell | Medium" height="22px" width="22px" src="https://raw.githubusercontent.com/Medium/medium-logos/cd9acd1fff7e3c902b559de6c808c4a491f2d160/03_Symbol/01_Black/SVG/Medium_Symbol_NoPadding.svg"/>][medium]
