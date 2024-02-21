@@ -12,7 +12,7 @@
 
 **Hi! I'm Mark <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="18px" width="18px">**
 
-I am a penetration tester with a focus on application secruity in the following areas:
+I am a penetration tester with a focus on application security in the following areas:
 
 - Web applications  
 - Mobile applications  
@@ -27,6 +27,7 @@ Over the years I have developed extensive experience in orchestrating comprehens
 - Strategic Leadership: Defining methodologies, innovating toolsets, and setting best practices that steer effective and efficient penetration testing.
 - Mentorship: Empowering the next generation of security experts through training, guidance, and thought leadership.
 - Collaboration: Bridging gaps between security teams, fostering a collaborative environment to collectively drive application resilience.
+- Remediation: Identify and develop remediation strategies for security findings and bug bounty reports, collaborating with development teams to ensure effective implementation.
 
 I am passionate about strengthening the security posture of applications, constantly evolving my techniques to stay ahead of emerging threats, and ensuring the highest standards of application security.
 
