@@ -33,6 +33,10 @@ Over the years, I have developed extensive experience in orchestrating comprehen
 
 I am passionate about strengthening the security posture of applications, constantly evolving my techniques to stay ahead of emerging threats, and ensuring the highest standards of application security.
 
+Here are some stats about the languages I use in my repositories:  
+  
+![Top Langs](https://github-readme-stats-flame-chi-13.vercel.app/api/top-langs/?username=marksowell&langs_count=7&theme=dark&theme=transparent&size_weight=0&count_weight=1&layout=compact)
+
 ### Connect with me
 
 [<img align="left" alt="marksowell.com" width="22px" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Breezeicons-apps-32-preferences-system-network.svg" />][website]
