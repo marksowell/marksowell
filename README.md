@@ -35,7 +35,7 @@ I am passionate about strengthening the security posture of applications, consta
 
 Here are some stats about the languages I use in my repositories:  
   
-![Top Langs](https://github-readme-stats-flame-chi-13.vercel.app/api/top-langs/?username=marksowell&langs_count=7&theme=dark&theme=transparent&size_weight=0&count_weight=1&layout=compact)
+![Top Langs](https://github-readme-stats-flame-chi-13.vercel.app/api/top-langs/?username=marksowell&langs_count=7&size_weight=0&count_weight=1&layout=compact)
 
 ### Connect with me
 
