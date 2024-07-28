@@ -70,9 +70,7 @@ Here are some stats about the languages I use in my repositories:
 
 ### Bookshelf
 
-[<img align="left" alt="Mark Sowell | Goodreads" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.11.0/icons/goodreads.svg" />][GoodReads]
-
-<br /><br />
+[<picture><source media="(prefers-color-scheme: dark)" srcset="images/Goodreads_logo_white.svg" style="height: 30px;"><source media="(prefers-color-scheme: light)" srcset="images/Goodreads_logo.svg" style="height: 30px;"><img alt="Goodreads Logo" src="images/Goodreads_logo.svg" width="auto" height="30" /></picture>][GoodReads]
 
 [<img src="bookshelf.gif" alt="Scrolling Image" height="150">][GoodReads]
 
