@@ -76,6 +76,11 @@ Here are some stats about the languages I use in my repositories:
 
 <br />
 
+[<img src="bookshelf.png" alt="Scrolling Image" width=100%>][GoodReads]
+
+<br />
+
+
 ![](https://komarev.com/ghpvc/?username=marksowell&color=57c62e&style=for-the-badge)
 
 [website]: https://marksowell.com
