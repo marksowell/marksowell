@@ -43,6 +43,8 @@ Here are some stats about the languages I use in my repositories:
 [<picture><source media="(prefers-color-scheme: dark)" srcset="images/linkedin_white.svg"><source media="(prefers-color-scheme: light)" srcset="images/linkedin.svg"><img alt="Mark Sowell | LinkedIn" src="images/linkedin.svg" width="auto" height="22" /></picture>][linkedin]&nbsp;&nbsp;&nbsp;
 [<picture><source media="(prefers-color-scheme: dark)" srcset="images/x_white.svg"><source media="(prefers-color-scheme: light)" srcset="images/x.svg"><img alt="Mark Sowell | X" src="images/x.svg" width="auto" height="22" /></picture>][twitter]&nbsp;&nbsp;&nbsp;
 [<picture><source media="(prefers-color-scheme: dark)" srcset="images/github_white.svg"><source media="(prefers-color-scheme: light)" srcset="images/github.svg"><img alt="Mark Sowell | GitHub" src="images/github.svg" width="auto" height="22" /></picture>][github]&nbsp;&nbsp;&nbsp;
+[<picture><source media="(prefers-color-scheme: dark)" srcset="images/slack_white.svg"><source media="(prefers-color-scheme: light)" srcset="images/slack.svg"><img alt="Mark Sowell | Slack" src="images/slack.svg" width="auto" height="22" /></picture>][slack]&nbsp;&nbsp;&nbsp;
+[<picture><source media="(prefers-color-scheme: dark)" srcset="images/discord_white.svg"><source media="(prefers-color-scheme: light)" srcset="images/discord.svg"><img alt="Mark Sowell | Discord" src="images/discord.svg" width="auto" height="22" /></picture>][discord]&nbsp;&nbsp;&nbsp;
 [<picture><source media="(prefers-color-scheme: dark)" srcset="images/youtube_white.svg"><source media="(prefers-color-scheme: light)" srcset="images/youtube.svg"><img alt="Mark Sowell | YouTube" src="images/youtube.svg" width="auto" height="22" /></picture>][youtube]&nbsp;&nbsp;&nbsp;
 [<picture><source media="(prefers-color-scheme: dark)" srcset="images/telegram_white.svg"><source media="(prefers-color-scheme: light)" srcset="images/telegram.svg"><img alt="Mark Sowell | Telegram" src="images/telegram.svg" width="auto" height="22" /></picture>][telegram]&nbsp;&nbsp;&nbsp;
 [<picture><source media="(prefers-color-scheme: dark)" srcset="images/medium_white.svg"><source media="(prefers-color-scheme: light)" srcset="images/medium.svg"><img alt="Mark Sowell | Medium" src="images/medium.svg" width="auto" height="22" /></picture>][medium]
@@ -84,3 +86,5 @@ Here are some stats about the languages I use in my repositories:
 [eccouncil]: https://aspen.eccouncil.org/VerifyBadge?type=certification&a=hrh5u5BN7tpBPrNa4iembfeuOXjVqqECsmvVrUh2oeI=  
 [goodreads]: https://www.goodreads.com/marksowell
 [medium]: https://medium.com/@mark-sowell
+[slack]: https://join.slack.com/t/marksowell/shared_invite/zt-2nvfws8ow-r53YEMmfquAIKr4QubeB~g
+[discord]: https://discord.gg/mqPDCRWXMa
