@@ -49,18 +49,14 @@ Here are some stats about the languages I use in my repositories:
 
 ## Research platforms
 
-[<img align="left" alt="Mark Sowell | TryHackMe" width="22px" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.11.0/icons/tryhackme.svg" />][tryhackme]
-[<img align="left" alt="Mark Sowell | Hack The Box" width="22px" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.11.0/icons/hackthebox.svg" />][hackthebox]
-[<img align="left" alt="Mark Sowell | HackerOne" width="22px" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.11.0/icons/hackerone.svg" />][hackerone]
-[<img align="left" alt="Mark Sowell | Bugcrowd" width="22px" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.11.0/icons/bugcrowd.svg" />][bugcrowd]
-
-<br />
+[<picture><source media="(prefers-color-scheme: dark)" srcset="images/tryhackme_white.svg"><source media="(prefers-color-scheme: light)" srcset="images/tryhackme.svg"><img alt="Mark Sowell | TryHackMe" src="images/tryhackme.svg" width="auto" height="22" /></picture>][tryhackme]&nbsp;&nbsp;&nbsp;
+[<picture><source media="(prefers-color-scheme: dark)" srcset="images/hackthebox_white.svg"><source media="(prefers-color-scheme: light)" srcset="images/hackthebox.svg"><img alt="Mark Sowell | Hack The Box" src="images/hackthebox.svg" width="auto" height="22" /></picture>][hackthebox]&nbsp;&nbsp;&nbsp;
+[<picture><source media="(prefers-color-scheme: dark)" srcset="images/hackerone_white.svg"><source media="(prefers-color-scheme: light)" srcset="images/hackerone.svg"><img alt="Mark Sowell | HackerOne" src="images/hackerone.svg" width="auto" height="22" /></picture>][hackerone]&nbsp;&nbsp;&nbsp;
+[<picture><source media="(prefers-color-scheme: dark)" srcset="images/bugcrowd_white.svg"><source media="(prefers-color-scheme: light)" srcset="images/bugcrowd.svg"><img alt="Mark Sowell | Bugcrowd" src="images/bugcrowd.svg" width="auto" height="22" /></picture>][bugcrowd]&nbsp;&nbsp;&nbsp;
 
 ## Certifications
 
 [<img align="left" alt="Mark Sowell | Credly" height="30px" src="credly.svg" />][credly]
-
-<br /><br />
 
 [<img align="left" alt="Mark Sowell | EC-Council" height="20px" src="ec-council.svg" />][eccouncil]
 
@@ -71,9 +67,6 @@ Here are some stats about the languages I use in my repositories:
 [<picture><source media="(prefers-color-scheme: dark)" srcset="images/Goodreads_logo_white.svg"><source media="(prefers-color-scheme: light)" srcset="images/Goodreads_logo.svg"><img alt="Goodreads Logo" src="images/Goodreads_logo.svg" width="auto" height="30" /></picture>][GoodReads]
 
 [<img src="bookshelf.png" alt="Scrolling Image" width=100%>][GoodReads]
-
-<br />
-
 
 ![](https://komarev.com/ghpvc/?username=marksowell&color=57c62e&style=for-the-badge)
 
