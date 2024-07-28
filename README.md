@@ -39,15 +39,13 @@ Here are some stats about the languages I use in my repositories:
 
 ## Connect with me
 
-[<img align="left" alt="marksowell.com" width="22px" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Breezeicons-apps-32-preferences-system-network.svg" />][website]
-[<img align="left" alt="Mark Sowell | LinkedIn" width="22px" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
-[<img align="left" alt="Mark Sowell | Twitter" width="22px" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" />][twitter]
-[<img align="left" alt="Mark Sowell | GitHub" width="22px" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/6492e09294fe505ea50ed55abb73e2fb8da722df/icons/github.svg" />][github]
-[<img align="left" alt="Mark Sowell | YouTube" width="22px" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" />][youtube]
-[<img align="left" alt="Mark Sowell | Telegram" width="22px" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg"/>][telegram]
-[<img align="left" alt="Mark Sowell | Medium" height="22px" width="22px" src="https://raw.githubusercontent.com/Medium/medium-logos/cd9acd1fff7e3c902b559de6c808c4a491f2d160/03_Symbol/01_Black/SVG/Medium_Symbol_NoPadding.svg"/>][medium]
-
-<br />
+[<picture><source media="(prefers-color-scheme: dark)" srcset="images/website_white.svg"><source media="(prefers-color-scheme: light)" srcset="images/website.svg"><img alt="marksowell.com" src="images/website.svg" width="auto" height="22" /></picture>][website]&nbsp;&nbsp;&nbsp;
+[<picture><source media="(prefers-color-scheme: dark)" srcset="images/linkedin_white.svg"><source media="(prefers-color-scheme: light)" srcset="images/linkedin.svg"><img alt="Mark Sowell | LinkedIn" src="images/linkedin.svg" width="auto" height="22" /></picture>][linkedin]&nbsp;&nbsp;&nbsp;
+[<picture><source media="(prefers-color-scheme: dark)" srcset="images/x_white.svg"><source media="(prefers-color-scheme: light)" srcset="images/x.svg"><img alt="Mark Sowell | X" src="images/x.svg" width="auto" height="22" /></picture>][twitter]&nbsp;&nbsp;&nbsp;
+[<picture><source media="(prefers-color-scheme: dark)" srcset="images/github_white.svg"><source media="(prefers-color-scheme: light)" srcset="images/github.svg"><img alt="Mark Sowell | GitHub" src="images/github.svg" width="auto" height="22" /></picture>][github]&nbsp;&nbsp;&nbsp;
+[<picture><source media="(prefers-color-scheme: dark)" srcset="images/youtube_white.svg"><source media="(prefers-color-scheme: light)" srcset="images/youtube.svg"><img alt="Mark Sowell | YouTube" src="images/youtube.svg" width="auto" height="22" /></picture>][youtube]&nbsp;&nbsp;&nbsp;
+[<picture><source media="(prefers-color-scheme: dark)" srcset="images/telegram_white.svg"><source media="(prefers-color-scheme: light)" srcset="images/telegram.svg"><img alt="Mark Sowell | Telegram" src="images/telegram.svg" width="auto" height="22" /></picture>][telegram]&nbsp;&nbsp;&nbsp;
+[<picture><source media="(prefers-color-scheme: dark)" srcset="images/medium_white.svg"><source media="(prefers-color-scheme: light)" srcset="images/medium.svg"><img alt="Mark Sowell | Medium" src="images/medium.svg" width="auto" height="22" /></picture>][medium]
 
 ## Research platforms
 
@@ -70,7 +68,7 @@ Here are some stats about the languages I use in my repositories:
 
 ## Bookshelf
 
-[<picture><source media="(prefers-color-scheme: dark)" srcset="images/Goodreads_logo_white.svg" style="height: 30px;"><source media="(prefers-color-scheme: light)" srcset="images/Goodreads_logo.svg" style="height: 30px;"><img alt="Goodreads Logo" src="images/Goodreads_logo.svg" width="auto" height="30" /></picture>][GoodReads]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="images/Goodreads_logo_white.svg"><source media="(prefers-color-scheme: light)" srcset="images/Goodreads_logo.svg"><img alt="Goodreads Logo" src="images/Goodreads_logo.svg" width="auto" height="30" /></picture>][GoodReads]
 
 [<img src="bookshelf.png" alt="Scrolling Image" width=100%>][GoodReads]
 
