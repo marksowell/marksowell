@@ -1,4 +1,4 @@
-[ ![Mark Sowell](Current4.png)](https://marksowell.com)
+[ ![Mark Sowell](images/Current4.png)](https://marksowell.com)
 
 <p align="center">
 <a href="https://github.com/marksowell"><img src="https://img.shields.io/github/followers/marksowell?style=social"></a>
@@ -58,9 +58,9 @@ Here are some stats about the languages I use in my repositories:
 
 ## Certifications
 
-[<img align="left" alt="Mark Sowell | Credly" height="30px" src="credly.svg" />][credly]
+[<img align="left" alt="Mark Sowell | Credly" height="30px" src="/images/credly.svg" />][credly]
 
-[<img align="left" alt="Mark Sowell | EC-Council" height="20px" src="ec-council.svg" />][eccouncil]
+[<img align="left" alt="Mark Sowell | EC-Council" height="20px" src="images/ec-council.svg" />][eccouncil]
 
 <br />
 
@@ -68,7 +68,7 @@ Here are some stats about the languages I use in my repositories:
 
 [<picture><source media="(prefers-color-scheme: dark)" srcset="images/Goodreads_logo_white.svg"><source media="(prefers-color-scheme: light)" srcset="images/Goodreads_logo.svg"><img alt="Goodreads Logo" src="images/Goodreads_logo.svg" width="auto" height="25" /></picture>][GoodReads]
 
-[<img src="bookshelf.png" alt="Scrolling Image" width=100%>][GoodReads]
+[<img src="images/bookshelf.png" alt="Scrolling Image" width=100%>][GoodReads]
 
 ![](https://komarev.com/ghpvc/?username=marksowell&color=57c62e&style=for-the-badge)
 
