@@ -70,9 +70,13 @@ Here are some stats about the languages I use in my repositories:
 
 ### Bookshelf
 
-[<img align="left" alt="Mark Sowell | Goodreads" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.11.0/icons/goodreads.svg" />][goodreads][<img align="left" alt="Bookshelf | Goodreads" height="30px" src="bookshelf.png" />][goodreads]
+[<img align="left" alt="Mark Sowell | Goodreads" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.11.0/icons/goodreads.svg" />][GoodReads]
 
 <br /><br />
+
+[<img src="bookshelf.gif" alt="Scrolling Image" height="150">][GoodReads]
+
+<br />
 
 ![](https://komarev.com/ghpvc/?username=marksowell&color=57c62e&style=for-the-badge)
 
