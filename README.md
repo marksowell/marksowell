@@ -37,7 +37,7 @@ Here are some stats about the languages I use in my repositories:
   
 ![Top Langs](https://github-readme-stats-flame-chi-13.vercel.app/api/top-langs/?username=marksowell&langs_count=8&size_weight=0&count_weight=1&layout=compact)
 
-### Connect with me
+## Connect with me
 
 [<img align="left" alt="marksowell.com" width="22px" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Breezeicons-apps-32-preferences-system-network.svg" />][website]
 [<img align="left" alt="Mark Sowell | LinkedIn" width="22px" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
@@ -49,7 +49,7 @@ Here are some stats about the languages I use in my repositories:
 
 <br />
 
-### Research platforms
+## Research platforms
 
 [<img align="left" alt="Mark Sowell | TryHackMe" width="22px" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.11.0/icons/tryhackme.svg" />][tryhackme]
 [<img align="left" alt="Mark Sowell | Hack The Box" width="22px" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.11.0/icons/hackthebox.svg" />][hackthebox]
@@ -58,7 +58,7 @@ Here are some stats about the languages I use in my repositories:
 
 <br />
 
-### Certifications
+## Certifications
 
 [<img align="left" alt="Mark Sowell | Credly" height="30px" src="credly.svg" />][credly]
 
@@ -68,13 +68,9 @@ Here are some stats about the languages I use in my repositories:
 
 <br />
 
-### Bookshelf
+## Bookshelf
 
 [<picture><source media="(prefers-color-scheme: dark)" srcset="images/Goodreads_logo_white.svg" style="height: 30px;"><source media="(prefers-color-scheme: light)" srcset="images/Goodreads_logo.svg" style="height: 30px;"><img alt="Goodreads Logo" src="images/Goodreads_logo.svg" width="auto" height="30" /></picture>][GoodReads]
-
-[<img src="bookshelf.gif" alt="Scrolling Image" height="150">][GoodReads]
-
-<br />
 
 [<img src="bookshelf.png" alt="Scrolling Image" width=100%>][GoodReads]
 
