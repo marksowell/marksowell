@@ -64,7 +64,7 @@ Here are some stats about the languages I use in my repositories:
 
 ## Bookshelf
 
-[<picture><source media="(prefers-color-scheme: dark)" srcset="images/Goodreads_logo_white.svg"><source media="(prefers-color-scheme: light)" srcset="images/Goodreads_logo.svg"><img alt="Goodreads Logo" src="images/Goodreads_logo.svg" width="auto" height="30" /></picture>][GoodReads]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="images/Goodreads_logo_white.svg"><source media="(prefers-color-scheme: light)" srcset="images/Goodreads_logo.svg"><img alt="Goodreads Logo" src="images/Goodreads_logo.svg" width="auto" height="25" /></picture>][GoodReads]
 
 [<img src="bookshelf.png" alt="Scrolling Image" width=100%>][GoodReads]
 
