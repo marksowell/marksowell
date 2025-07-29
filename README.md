@@ -58,11 +58,9 @@ Here are some stats about the languages I use in my repositories:
 
 ## Certifications
 
-[<img align="left" alt="Mark Sowell | Accredible" height="30px" src="/images/accredible.webp" />][accredible]
-
-[<img align="left" alt="Mark Sowell | Credly" height="30px" src="/images/credly.svg" />][credly]
-
-[<img align="left" alt="Mark Sowell | EC-Council" height="20px" src="images/ec-council.svg" />][eccouncil]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="images/accredible_white.webp"><source media="(prefers-color-scheme: light)" srcset="images/accredible.webp"><img alt="Mark Sowell | Accredible" src="images/accredible.webp" width="auto" height="20" /></picture>][accredible]&nbsp;&nbsp;&nbsp;
+[<picture><source media="(prefers-color-scheme: dark)" srcset="images/credly.svg"><source media="(prefers-color-scheme: light)" srcset="images/credly.svg"><img alt="Mark Sowell | Credly" src="images/credly.svg" width="auto" height="30" /></picture>][Credly]&nbsp;&nbsp;&nbsp;
+[<picture><source media="(prefers-color-scheme: dark)" srcset="images/ec-council.svg"><source media="(prefers-color-scheme: light)" srcset="images/ec-council.svg"><img alt="Mark Sowell | EC-Council" src="images/ec-council.svg" width="auto" height="20" /></picture>][eccouncil]&nbsp;&nbsp;&nbsp;
 
 <br />
 
@@ -90,3 +88,4 @@ Here are some stats about the languages I use in my repositories:
 [medium]: https://medium.com/@mark-sowell
 [slack]: https://join.slack.com/t/marksowell/shared_invite/zt-2nvfws8ow-r53YEMmfquAIKr4QubeB~g
 [discord]: https://discord.gg/mqPDCRWXMa
+[accredible]: https://www.credential.net/profile/mark-sowell/wallet
