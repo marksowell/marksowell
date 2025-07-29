@@ -58,6 +58,8 @@ Here are some stats about the languages I use in my repositories:
 
 ## Certifications
 
+[<img align="left" alt="Mark Sowell | Accredible" height="30px" src="/images/accredible.webp" />][accredible]
+
 [<img align="left" alt="Mark Sowell | Credly" height="30px" src="/images/credly.svg" />][credly]
 
 [<img align="left" alt="Mark Sowell | EC-Council" height="20px" src="images/ec-council.svg" />][eccouncil]
