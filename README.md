@@ -59,7 +59,7 @@ Here are some stats about the languages I use in my repositories:
 ## Certifications
 
 [<picture><source media="(prefers-color-scheme: dark)" srcset="images/accredible_white.webp"><source media="(prefers-color-scheme: light)" srcset="images/accredible.webp"><img alt="Mark Sowell | Accredible" src="images/accredible.webp" width="auto" height="25" /></picture>][accredible]&nbsp;&nbsp;&nbsp;
-[<picture><source media="(prefers-color-scheme: dark)" srcset="images/credly2.svg"><source media="(prefers-color-scheme: light)" srcset="images/credly2.svg"><img alt="Mark Sowell | Credly" src="images/credly2.svg" width="100" height="auto" /></picture>][Credly]&nbsp;&nbsp;&nbsp;
+[<picture><source media="(prefers-color-scheme: dark)" srcset="images/credly2.svg"><source media="(prefers-color-scheme: light)" srcset="images/credly2.svg"><img alt="Mark Sowell | Credly" src="images/credly2.svg" width="20" height="auto" /></picture>][Credly]&nbsp;&nbsp;&nbsp;
 [<picture><source media="(prefers-color-scheme: dark)" srcset="images/ec-council.svg"><source media="(prefers-color-scheme: light)" srcset="images/ec-council.svg"><img alt="Mark Sowell | EC-Council" src="images/ec-council.svg" width="auto" height="20" /></picture>][eccouncil]&nbsp;&nbsp;&nbsp;
 
 ## Bookshelf
