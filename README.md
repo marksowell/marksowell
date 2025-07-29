@@ -1,4 +1,4 @@
-[ ![Mark Sowell](images/Current4.png)](https://marksowell.com)
+[ ![Mark Sowell](images/Current5.png)](https://marksowell.com)
 
 <p align="center">
 <a href="https://github.com/marksowell"><img src="https://img.shields.io/github/followers/marksowell?style=social"></a>
