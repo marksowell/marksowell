@@ -75,7 +75,7 @@ Here are some stats about the languages I use in my repositories:
 [youtube]: https://www.youtube.com/c/MarkSowell-Denver/playlists
 [linkedin]: https://www.linkedin.com/in/marksowell/
 [hackthebox]: https://app.hackthebox.com/profile/319820
-[bugcrowd]: https://bugcrowd.com/marksowell
+[bugcrowd]: https://bugcrowd.com/h/marksowell
 [hackerone]: https://hackerone.com/marksowell
 [tryhackme]: https://tryhackme.com/p/marksowell  
 [twitter]: https://twitter.com/marksowell/  
