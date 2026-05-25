@@ -12,26 +12,30 @@
 
 **Hi! I'm Mark <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="18px" width="18px">**
 
-I am an experienced penetration tester with a focus on application security in the following areas:
+I am an experienced penetration tester and application security leader specializing in offensive security, security consulting, and application security strategy across the following areas:
 
 - Web applications  
-- Mobile applications  
+- Mobile applications (Android & iOS)  
 - Desktop applications  
 - APIs, SDKs, and Web Services  
-- Cloud applications  
+- Cloud and SaaS platforms  
 - Microservices and containerized applications  
-- Serverless applications  
+- Serverless and distributed applications  
+- AI-enabled and emerging technology platforms
 
-Over the years, I have developed extensive experience in orchestrating comprehensive security assessments for a diverse range of applications and cultivated expertise in:
+Over the years, I have led and orchestrated comprehensive security programs and assessments for global clients across multiple industries while helping organizations strengthen security posture, reduce risk, and improve application resilience at scale.
 
-- **Strategic Leadership:** Defining methodologies, innovating toolsets, and setting best practices that steer effective and efficient penetration testing.
-- **Consulting:** Serving as a principal application security consultant specializing in web, mobile (Android & iOS), automotive, desktop, and API testing.
-- **Mentorship:** Empowering the next generation of security experts through training, guidance, and thought leadership.
-- **Collaboration:** Bridging gaps between security teams, fostering a collaborative environment to collectively drive application resilience.
-- **Remediation:** Identifying and developing remediation strategies for security findings and bug bounty reports, collaborating with development teams to ensure effective implementation.
-- **Comprehensive Security Assessments:** Executing a wide range of penetration tests including external, internal, and application testing for global clients in various sectors, leading projects from scoping to detailed reporting and remediation.
+My experience includes:
 
-I am passionate about strengthening the security posture of applications, constantly evolving my techniques to stay ahead of emerging threats, and ensuring the highest standards of application security.
+- **Strategic Leadership:** Defining penetration testing methodologies, modernizing tooling and workflows, improving operational efficiency, and establishing best practices across offensive security engagements and programs.
+- **Security Consulting & Advisory:** Serving as a principal-level application security consultant and trusted advisor for customers, leadership teams, and stakeholders across web, mobile, cloud, API, AI, and enterprise application security initiatives.
+- **Presales & Customer Engagement:** Supporting customer engagements from initial discovery and scoping through technical strategy, solution positioning, executive communication, and delivery, helping drive successful security opportunities and long-term customer relationships.
+- **Team Leadership & Mentorship:** Leading and mentoring penetration testers and security consultants, supporting hiring, onboarding, escalation management, technical enablement, quality assurance, and career development across distributed teams.
+- **AI & Emerging Technologies:** Evaluating and assessing modern AI-enabled applications, integrations, APIs, and workflows while helping organizations understand evolving attack surfaces, security risks, and defensive strategies related to AI adoption.
+- **Comprehensive Security Assessments:** Leading external, internal, application, cloud, and adversarial security assessments for enterprise environments, including risk validation, attack path analysis, remediation guidance, and executive reporting.
+- **Cross-Functional Collaboration:** Partnering closely with engineering, architecture, product, operations, and security teams to improve remediation efforts, security maturity, and secure development practices across complex environments.
+
+I focus on combining deep technical expertise with leadership, consulting, and operational execution to help organizations build scalable and effective security programs while staying ahead of evolving threats and technologies.
 
 Here are some stats about the languages I use in my repositories:  
   
