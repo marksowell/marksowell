@@ -23,20 +23,20 @@ I am an experienced penetration tester and application security leader specializ
 - Serverless and distributed applications  
 - AI-enabled platforms, integrations, and emerging technologies
 
-Over the years, I have led and orchestrated application security initiatives, offensive security programs, and large-scale security assessments while partnering with engineering, product, and leadership teams to strengthen security posture and reduce organizational risk.
+Over the years, I have led application security initiatives, offensive security programs, and large-scale security assessments to strengthen security posture and reduce organizational risk.
 
-My experience includes:
+Experience:
 
-- **Strategic Leadership:** Defining penetration testing methodologies, modernizing tooling and workflows, improving operational efficiency, and establishing best practices across offensive security engagements and programs.
-- **Security Consulting & Advisory:** Serving as a principal-level application security consultant and trusted advisor for customers, leadership teams, and stakeholders across web, mobile, cloud, API, AI, and enterprise application security initiatives.
-- **Presales & Customer Engagement:** Supporting customer engagements from initial discovery and scoping through technical strategy, solution positioning, executive communication, and delivery, helping drive successful security opportunities and long-term customer relationships.
-- **Team Leadership & Mentorship:** Leading and mentoring penetration testers and security consultants, supporting hiring, onboarding, escalation management, technical enablement, quality assurance, and career development across distributed teams.
-- **Application & Platform Security:** Assessing and securing modern application ecosystems including APIs, OAuth integrations, third-party platforms, SaaS environments, cloud-native applications, AI-enabled workflows, and distributed architectures.
-- **AI & Emerging Technologies:** Evaluating and assessing modern AI-enabled applications, integrations, APIs, and workflows while helping organizations understand evolving attack surfaces, security risks, and defensive strategies related to AI adoption.
-- **Comprehensive Security Assessments:** Leading external, internal, application, cloud, and adversarial security assessments for enterprise environments, including risk validation, attack path analysis, remediation guidance, and executive reporting.
-- **Cross-Functional Collaboration:** Partnering closely with engineering, architecture, product, operations, and security teams to improve remediation efforts, security maturity, and secure development practices across complex environments.
+- **Strategic Leadership:** Defining methodologies, creating tooling and workflows, and establishing best practices across offensive security and application security programs.
+- **Security Consulting & Advisory:** Principal-level application security leader and trusted advisor across web, mobile, cloud, API, AI, and enterprise security initiatives.
+- **Presales & Customer Engagement:** Supporting engagements from discovery and scoping through technical strategy, executive communication, delivery, and long-term customer success.
+- **Team Leadership & Mentorship:** Leading and mentoring penetration testers and security consultants through hiring, onboarding, escalations, technical enablement, and quality assurance across distributed teams.
+- **Application & Platform Security:** Assessing APIs, OAuth integrations, SaaS platforms, cloud-native applications, AI-enabled workflows, and distributed architectures.
+- **AI & Emerging Technologies:** Evaluating AI-enabled applications and integrations while helping organizations understand emerging attack surfaces and security risks.
+- **Comprehensive Security Assessments:** Leading external, internal, application, cloud, red team, and physical security assessments including attack path analysis, remediation guidance, and executive reporting.
+- **Cross-Functional Collaboration:** Partnering with engineering, product, architecture, operations, and security teams to improve remediation efforts and secure development practices across complex environments.
 
-I focus on combining deep technical expertise with leadership, consulting, and operational execution to help organizations build scalable and effective security programs while staying ahead of evolving threats and technologies.
+I focus on combining deep technical expertise with leadership to help organizations build scalable and effective security programs.
 
 Here are some stats about the languages I use in my repositories:  
   
