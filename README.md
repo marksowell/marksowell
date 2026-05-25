@@ -12,7 +12,7 @@
 
 **Hi! I'm Mark <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="18px" width="18px">**
 
-I am an experienced penetration tester and application security leader specializing in offensive security, security consulting, and application security strategy across the following areas:
+I am an experienced penetration tester and application security leader specializing in offensive security, security consulting, presales, and application security strategy across the following areas:
 
 - Web applications  
 - Mobile applications (Android & iOS)  
@@ -21,9 +21,9 @@ I am an experienced penetration tester and application security leader specializ
 - Cloud and SaaS platforms  
 - Microservices and containerized applications  
 - Serverless and distributed applications  
-- AI-enabled and emerging technology platforms
+- AI-enabled platforms, integrations, and emerging technologies
 
-Over the years, I have led and orchestrated comprehensive security programs and assessments for global clients across multiple industries while helping organizations strengthen security posture, reduce risk, and improve application resilience at scale.
+Over the years, I have led and orchestrated application security initiatives, offensive security programs, and large-scale security assessments while partnering with engineering, product, and leadership teams to strengthen security posture and reduce organizational risk.
 
 My experience includes:
 
@@ -31,6 +31,7 @@ My experience includes:
 - **Security Consulting & Advisory:** Serving as a principal-level application security consultant and trusted advisor for customers, leadership teams, and stakeholders across web, mobile, cloud, API, AI, and enterprise application security initiatives.
 - **Presales & Customer Engagement:** Supporting customer engagements from initial discovery and scoping through technical strategy, solution positioning, executive communication, and delivery, helping drive successful security opportunities and long-term customer relationships.
 - **Team Leadership & Mentorship:** Leading and mentoring penetration testers and security consultants, supporting hiring, onboarding, escalation management, technical enablement, quality assurance, and career development across distributed teams.
+- **Application & Platform Security:** Assessing and securing modern application ecosystems including APIs, OAuth integrations, third-party platforms, SaaS environments, cloud-native applications, AI-enabled workflows, and distributed architectures.
 - **AI & Emerging Technologies:** Evaluating and assessing modern AI-enabled applications, integrations, APIs, and workflows while helping organizations understand evolving attack surfaces, security risks, and defensive strategies related to AI adoption.
 - **Comprehensive Security Assessments:** Leading external, internal, application, cloud, and adversarial security assessments for enterprise environments, including risk validation, attack path analysis, remediation guidance, and executive reporting.
 - **Cross-Functional Collaboration:** Partnering closely with engineering, architecture, product, operations, and security teams to improve remediation efforts, security maturity, and secure development practices across complex environments.
