@@ -40,7 +40,7 @@ I focus on combining deep technical expertise with leadership to help organizati
 
 Here are some stats about the languages I use in my repositories:  
   
-![Top Langs](https://github-readme-stats-flame-chi-13.vercel.app/api/top-langs/?username=marksowell&langs_count=10&size_weight=0&count_weight=1&layout=compact)
+![Top Langs](https://github-stats-extended-sand.vercel.app/api/top-langs/?username=marksowell&langs_count=10&size_weight=0&count_weight=1&layout=compact)
 
 ## Connect with me
 
