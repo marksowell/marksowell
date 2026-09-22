@@ -1,13 +1,13 @@
 [ ![Mark Sowell](images/Current5.png)](https://marksowell.com)
 
 <p align="center">
-<a href="https://github.com/marksowell"><img src="https://img.shields.io/github/followers/marksowell?style=social"></a>
-<a href="https://keybase.io/marksowell"><img src="https://img.shields.io/keybase/pgp/marksowell"></a>
-<a href="https://status.marksowell.com/"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fstatus.marksowell.com%2Findex.json&query=%24.data.attributes.aggregate_state&label=status"></a>
-<a href="https://marksowell.com"><img src="https://img.shields.io/website?url=https%3A%2F%2Fmarksowell.com"></a>
-<a href="https://discord.gg/mqPDCRWXMa"><img src="https://img.shields.io/discord/555552394184753153.svg?logo=discord"></a>
-<a href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fpublish.twitter.com%2F%3FbuttonType%3DFollowButton%26query%3Dhttps%253A%252F%252Ftwitter.com%252Fmarksowell%26widget%3DButton&ref_src=twsrc%5Etfw&region=follow_link&screen_name=marksowell&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/marksowell?label=Follow%20%40marksowell&style=social"></a>
-<a href="https://www.linkedin.com/in/marksowell"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin"></a>
+<a href="https://github.com/marksowell"><img src="https://img.shields.io/github/followers/marksowell?label=GitHub&logo=github&style=flat-square"></a>
+<a href="https://keybase.io/marksowell"><img src="https://img.shields.io/keybase/pgp/marksowell?style=flat-square&label=Keybase"></a>
+<a href="https://status.marksowell.com/"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fstatus.marksowell.com%2Findex.json&query=%24.data.attributes.aggregate_state&label=status&style=flat-square"></a>
+<a href="https://marksowell.com"><img src="https://img.shields.io/website?url=https%3A%2F%2Fmarksowell.com&style=flat-square&label=website"></a>
+<a href="https://discord.gg/mqPDCRWXMa"><img src="https://img.shields.io/discord/555552394184753153.svg?logo=discord&label=Discord&style=flat-square"></a>
+<a href="https://x.com/marksowell"><img src="https://img.shields.io/badge/X-%40marksowell-000000?logo=x&logoColor=white&style=flat-square"></a>
+<a href="https://www.linkedin.com/in/marksowell"><img src="https://img.shields.io/badge/LinkedIn-Mark%20Sowell-0A66C2?logo=linkedin&logoColor=white&style=flat-square"></a>
 </p>
 
 **Hi! I'm Mark <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="18px" width="18px">**
