@@ -1,13 +1,13 @@
 [ ![Mark Sowell](images/Current5.png)](https://marksowell.com)
 
 <p align="center">
-<a href="https://github.com/marksowell"><img src="https://img.shields.io/github/followers/marksowell?style=social"></a>
-<a href="https://keybase.io/marksowell"><img src="https://img.shields.io/keybase/pgp/marksowell"></a>
-<a href="https://status.marksowell.com/"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fstatus.marksowell.com%2Findex.json&query=%24.data.attributes.aggregate_state&label=status"></a>
-<a href="https://marksowell.com"><img src="https://img.shields.io/website?url=https%3A%2F%2Fmarksowell.com"></a>
-<a href="https://discord.gg/mqPDCRWXMa"><img src="https://img.shields.io/discord/555552394184753153.svg?logo=discord"></a>
-<a href="https://x.com/marksowell"><img src="https://img.shields.io/badge/Follow-%40marksowell-black?logo=x&style=social"></a>
-<a href="https://www.linkedin.com/in/marksowell"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin"></a>
+<a href="https://github.com/marksowell"><img src="https://img.shields.io/github/followers/marksowell?label=Followers&logo=github&style=flat"></a>
+<a href="https://keybase.io/marksowell"><img src="https://img.shields.io/keybase/pgp/marksowell?label=PGP&logo=keybase&style=flat"></a>
+<a href="https://status.marksowell.com/"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fstatus.marksowell.com%2Findex.json&query=%24.data.attributes.aggregate_state&label=status&style=flat"></a>
+<a href="https://marksowell.com"><img src="https://img.shields.io/website?url=https%3A%2F%2Fmarksowell.com&style=flat&label=website"></a>
+<a href="https://discord.gg/mqPDCRWXMa"><img src="https://img.shields.io/discord/555552394184753153.svg?logo=discord&label=Discord&style=flat"></a>
+<a href="https://x.com/marksowell"><img src="https://img.shields.io/badge/Follow-%40marksowell-black?logo=x&style=flat"></a>
+<a href="https://www.linkedin.com/in/marksowell"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat"></a>
 </p>
 
 **Hi! I'm Mark <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="18px" width="18px">**
